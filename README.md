@@ -1,27 +1,26 @@
 # The Boxx — Coached Training Studio Website
 
-A fast, dark-first marketing site for a **CrossFit / HYROX / strength-and-conditioning studio** in South Extension, Delhi — built to turn walk-by curiosity into a booked first session.
+I built this site for **The Boxx**, a CrossFit / HYROX / strength-and-conditioning studio in South Extension, Delhi. As a one-man team I took it from design to deploy, driven end to end through agentic AI workflows — the brief was simple: turn walk-by curiosity into a booked first session, and make the studio feel as serious online as it is on the floor.
 
-> 🔒 **This is a public showcase.** The site's source lives in a **private** repository — happy to share it with serious reviewers on request. Screenshots use **demo data** (real phone numbers removed); the studio brand is shown as it runs in production.
+It's a hand-built static site (no page builder), dark and editorial, tuned for speed. The screenshots use demo contact details — I removed the real phone numbers before publishing — but the studio brand is shown as it runs.
+
+*The source is in a private repo; happy to share it with a serious reviewer on request.*
 
 ---
 
-## What it is
-
-A hand-built static site (no page builder) with a strong editorial voice and a clear conversion path: **hero → how we train → plans → pick your format → coaches → book**. Every page is responsive, dark-themed, and tuned for speed.
-
+## The pages
 - **Home** — a bold hero, a "why us" grid, a plans-at-a-glance counter, format cards (Collective / HYROX / Precision), the studio Instagram feed, and the coaching team.
-- **Train / HYROX / Kids & Teens** — the programme pages, each with its own framing and CTA.
+- **Train / HYROX / Kids & Teens** — the programme pages, each with its own framing and call to action.
 - **Memberships** — the plan tiers.
 - **Timetable** — the weekly class grid.
 - **About** — the studio's story and philosophy.
 - **Contact** — location, hours, a registration form, and WhatsApp / Instagram / call shortcuts.
 
-Built with hand-written **HTML, modern CSS** (design tokens, dark theme, Archivo Black + Inter) and a little **vanilla JS** for the mobile drawer, scroll-reveal animations, and the animated hero.
+Built with hand-written HTML, modern CSS (design tokens, dark theme, Archivo Black + Inter) and a little vanilla JS for the mobile drawer, scroll-reveal animations and the animated hero.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home
 ![Home](screenshots/d-home.png)
@@ -39,7 +38,7 @@ Built with hand-written **HTML, modern CSS** (design tokens, dark theme, Archivo
 **About** ![About](screenshots/d-about.png)
 **Contact** ![Contact](screenshots/d-contact.png)
 
-### 📱 Mobile
+### Mobile
 | Home | Train | HYROX | Memberships |
 |---|---|---|---|
 | ![](screenshots/m-home.png) | ![](screenshots/m-train.png) | ![](screenshots/m-hyrox.png) | ![](screenshots/m-memberships.png) |
@@ -50,11 +49,8 @@ Built with hand-written **HTML, modern CSS** (design tokens, dark theme, Archivo
 
 ---
 
-## 🧰 Tech
-`HTML5` · `CSS3` (custom design tokens, dark theme) · `Vanilla JS` · responsive / mobile-first · IntersectionObserver reveal animations
-
-## 🔑 Want to see the code?
-The full source is in a **private repository** — reach out for access.
+## Tech
+HTML5 · CSS3 (custom design tokens, dark theme) · vanilla JS · responsive / mobile-first · IntersectionObserver reveal animations
 
 ---
-Built by **[@abBytes-sudo](https://github.com/abBytes-sudo)** · abhimasih0505@gmail.com · +91 73039 37702
+Developed by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for The Boxx · abhimasih0505@gmail.com · +91 73039 37702
