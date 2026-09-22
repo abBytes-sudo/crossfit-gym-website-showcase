@@ -2,7 +2,7 @@
 
 I built this site for **The Boxx**, a CrossFit / HYROX / strength-and-conditioning studio in South Extension, Delhi. As a one-man team I took it from design to deploy, driven end to end through agentic AI workflows — the brief was simple: turn walk-by curiosity into a booked first session, and make the studio feel as serious online as it is on the floor.
 
-It's a hand-built static site (no page builder), dark and editorial, tuned for speed. The screenshots use demo contact details — I removed the real phone numbers before publishing — but the studio brand is shown as it runs.
+It's a hand-built static site (no page builder), dark and editorial, tuned for speed. The screenshots are from a demo build — a placeholder brand and dummy contact details stand in for the studio's real branding and phone numbers, which I keep out of the public repo.
 
 *The source is in a private repo; happy to share it with a serious reviewer on request.*
 
